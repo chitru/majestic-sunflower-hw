@@ -1,21 +1,15 @@
 {
   "title": "Hard Work Money",
-  "layout_style": "list",
+  "layout_style": "grid",
   "palette": "green",
   "header": {
-    "title": "Ampersand",
-    "logo_img": "images/logo.png",
+    "title": "Hard Work Money",
+    "logo_img": "/images/hwm.png",
     "has_nav": true
   },
   "footer": {
     "content": "&copy; All rights reserved.",
-    "links": [
-      {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
-        "new_window": true
-      }
-    ],
+    "links": [],
     "has_social": true
   }
 }
