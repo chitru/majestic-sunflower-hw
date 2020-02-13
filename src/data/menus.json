@@ -1,1 +1,10 @@
-{}
+{
+  "main": [
+    {
+      "identifier": "Home1",
+      "title": "home1",
+      "url": "https://majestic-sunflower-hw-4b37d.netlify.com/",
+      "weight": 1
+    }
+  ]
+}
